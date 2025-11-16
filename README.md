@@ -1,4 +1,4 @@
-# 🐼 Pandas 80/20 Rule – Essential Data Analysis Commands
+# 🐼 Pandas 80/20 Rule – Essential Data Analysis Commands 
 
 This repository contains the **core 20% of pandas functions** that cover **80% of real-world data analysis** tasks — the true *Pareto set* for anyone using pandas daily.
 
